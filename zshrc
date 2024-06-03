@@ -70,3 +70,4 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+export GOOGLE_APPLICATION_CREDENTIALS=/Users/Kieran/code/kieran-huybrechts/gcp/wagon-data-science-403920-af5a8c4c7135.json
